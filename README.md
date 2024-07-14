@@ -1,1 +1,1 @@
-ケプラー問題をJuliaで解く．
+Kepler問題をJuliaで解く．
