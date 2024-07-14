@@ -1,2 +1,1 @@
 JuliaでKepler問題のシミュレーションをする．
-Kepler.ipynbにコードがあります．
