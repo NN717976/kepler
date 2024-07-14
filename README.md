@@ -1,1 +1,1 @@
-Kepler問題をJuliaで解く．
+JuliaでKepler問題のシミュレーションをする．
