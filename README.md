@@ -1,1 +1,1 @@
-JuliaでKepler問題のシミュレーションをする．
+JuliaでKeplerの法則のシミュレーションをする．
